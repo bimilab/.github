@@ -27,10 +27,10 @@ To help you find our work, we use the following naming conventions:
 | Name | Role | Research Interest | GitHub |
 | :--- | :--- | :--- | :--- |
 | **Jaerock Kwon** | Director | Embodied Cognition | [@jrkwon](#) |
-| Aws Khalil | Ph.D. Candidate | Delay Mitigation | [@username](#) |
-| Feeza Khan Khanzada | Ph.D. Candidate | Reinforcement Learning | [@username](#) |
-| Jose Gonzalez-Belmonte | D.Eng | Human-Machine Interface | [@username](#) |
-| Raghu Nallapati | D.Eng | Computer Vision for Edge Devices | [@username](#) |
+| Aws Khalil | Ph.D. Candidate | Delay Mitigation | [@awskhalil](#) |
+| Feeza Khan Khanzada | Ph.D. Candidate | Reinforcement Learning | [@feezakk](#) |
+| Jose Gonzalez-Belmonte | D.Eng | Human-Machine Interface | [@jgonzalez-uom](#) |
+| Raghu Nallapati | D.Eng | Computer Vision for Edge Devices | [@RaghuNallapatiGIT](#) |
 | Ali Al-Bustami | Master's | Vison Language Action Model | [@username](#) |
 
 ---
