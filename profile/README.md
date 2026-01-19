@@ -37,7 +37,7 @@ To help you find our work, we use the following naming conventions:
 
 ## 📋 Guidelines for Members
 If you are a new member of the lab, please refer to our **[Internal Wiki/Onboarding Guide]** for:
-1.  **Code Standards:** Use our [Standard README Template](research-template).
+1.  **Code Standards:** Use our [Standard README Template](#).
 2.  **Environment:** We prefer `Conda` or `Docker` for reproducibility.
 3.  **Data Policy:** Never upload raw datasets or model weights >50MB to GitHub.
 
