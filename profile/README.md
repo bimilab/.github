@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="profile/lab-banner.png" alt="Lab Header" width="100%">
+  <img src="lab-banner.png" alt="Lab Header" width="100%">
 </p>
 
 # 🔬 Bio-Inspired Machine Intelligence (BIMI) Lab @ the University of Michigan-Dearborn 
