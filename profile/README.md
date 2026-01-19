@@ -2,9 +2,9 @@
   <img src="lab-banner.png" alt="Lab Header">
 </p>
 
-# 🔬 Bio-Inspired Machine Intelligence (BIMI) Lab @ the University of Michigan-Dearborn 
+# 🔬 Bio-Inspired Machine Intelligence (BIMI) Lab 
 
-Welcome to the official GitHub Organization of the **BIMI**. Our research focuses on pushing the boundaries of **Artificial Intelligence and Machine Learning**, **Autonomous Vehicles**, and **Computational Neuroscience**.
+Welcome to the official GitHub Organization of the **BIMI** at the University of Michigan-Dearborn. Our research focuses on pushing the boundaries of **Artificial Intelligence and Machine Learning**, **Autonomous Vehicles**, and **Computational Neuroscience**.
 
 ---
 
