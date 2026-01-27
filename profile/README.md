@@ -40,7 +40,7 @@ If you are a new member of the lab, please refer to our **[Internal Wiki/Onboard
 1.  **Code Standards:** Use our [Standard README Template](#).
 2.  **Environment:** We prefer `Conda` or `Docker` for reproducibility.
 3.  **Data Policy:** Never upload raw datasets or model weights >50MB to GitHub.
-
+4. **Overleaf:** The standard title format is `YYYY-[conference/journal-acronym]-[paper title]`.
 ---
 
 ## 📬 Contact & Links
