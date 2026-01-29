@@ -18,7 +18,7 @@ Welcome to the official GitHub Organization of the **BIMI** at the University of
 ## 📂 Repository Navigator
 To help you find our work, we use the following naming conventions:
 * `paper-*`: Official code for published research papers.
-* `proj-*`: Ongoing research projects and internal tools.
+* `project-*`: Ongoing research projects and internal tools.
 * `tool-*`: General-purpose libraries and utilities developed by the lab.
 
 ---
@@ -27,11 +27,11 @@ To help you find our work, we use the following naming conventions:
 | Name | Role | Research Interest | GitHub |
 | :--- | :--- | :--- | :--- |
 | **Jaerock Kwon** | Director | Embodied Cognition | [@jrkwon](#) |
-| Aws Khalil | Ph.D. Candidate | Delay Mitigation | [@awskhalil](#) |
-| Feeza Khan Khanzada | Ph.D. Candidate | Reinforcement Learning | [@feezakk](#) |
-| Jose Gonzalez-Belmonte | D.Eng | Human-Machine Interface | [@jgonzalez-uom](#) |
-| Raghu Nallapati | D.Eng | Computer Vision for Edge Devices | [@RaghuNallapatiGIT](#) |
-| Ali Al-Bustami | Master's | Vison Language Action Model | [@username](#) |
+| **Aws Khalil** | Ph.D. Candidate | Delay Mitigation | [@awskhalil](#) |
+| **Feeza Khan Khanzada** | Ph.D. Candidate | Reinforcement Learning | [@feezakk](#) |
+| **Jose Gonzalez-Belmonte** | D.Eng | Human-Machine Interface | [@jgonzalez-uom](#) |
+| **Raghu Nallapati** | D.Eng | Computer Vision for Edge Devices | [@RaghuNallapatiGIT](#) |
+| **Ali Al-Bustami** | Master's | Vison Language Action Model | [@username](#) |
 
 ---
 
@@ -40,7 +40,7 @@ If you are a new member of the lab, please refer to our **[Internal Wiki/Onboard
 1.  **Code Standards:** Use our [Standard README Template](#).
 2.  **Environment:** We prefer `Conda` or `Docker` for reproducibility.
 3.  **Data Policy:** Never upload raw datasets or model weights >50MB to GitHub.
-4. **Overleaf:** The standard title format is `YYYY-[conference/journal-acronym]-[paper title]`.
+4.  **Overleaf:** The standard title format is `YYYY-[conference/journal-acronym]-[paper title]`.
 ---
 
 ## 📬 Contact & Links
