@@ -48,7 +48,7 @@ If you are a new member of the lab, please refer to our **[Internal Wiki/Onboard
 * 📧 **Email:** jrkwon@umich.edu
 * 📍 **Location:** ELB 2069, University of Michigan-Deaborn
 * 🐦 **Twitter/X:** @jaerock\_ece
-* 🌐 **LinkedIn** [BIMI](https://www.linkedin.com/company/umd-bimi/)
+* 🤝 **LinkedIn** [BIMI](https://www.linkedin.com/company/umd-bimi/)
 
 ---
 *Managed by the BIMI Technical Committee.*
